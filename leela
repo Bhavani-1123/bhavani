@@ -1,0 +1,5 @@
+git init filename
+git add branch
+git commit -m
+git status
+git stash to save
